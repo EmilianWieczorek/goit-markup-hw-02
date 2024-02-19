@@ -57,7 +57,8 @@ ol {
   letter-spacing: 0.02em;
 }
 
-.contacts-style:hover {
+.contacts-style:hover,
+.contacts-style:active {
   color: #404bbf;
 }
 
