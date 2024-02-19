@@ -52,6 +52,9 @@ ol {
   color: #404bbf;
 }
 
+.address-styles {
+  font-style: normal;
+}
 .contacts-style {
   color: #434455;
   font-weight: 400;
