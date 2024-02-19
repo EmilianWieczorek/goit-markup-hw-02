@@ -93,9 +93,7 @@ address {
   cursor: pointer;
 }
 
-.button-style:hover,
-.button-style:active,
-.button-style:focus {
+.button-style:hover {
   background-color: #404bbf;
 }
 
