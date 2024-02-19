@@ -41,20 +41,26 @@ ol {
 }
 
 .nav-style:hover,
+.nav-style:visited,
 .nav-style:active,
 .nav-style:focus {
   color: #404bbf;
 }
 
-address {
+.address-styles {
   font-style: normal;
-}
-.contacts-style {
   color: #434455;
   font-weight: 400;
   font-size: 16px;
   font-style: normal;
   letter-spacing: 0.02em;
+}
+
+.address-styles:hover,
+.address-styles:active,
+.address-styles:visited,
+.address-styles:focus {
+  color: #404bbf;
 }
 
 .contacts-style:hover,
