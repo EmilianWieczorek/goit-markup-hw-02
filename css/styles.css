@@ -46,13 +46,14 @@ ol {
 .nav-style:focus {
   color: #404bbf;
 }
+address {
+  font-style: normal;
+}
 
 .address-styles {
-  font-style: normal;
   color: #434455;
   font-weight: 400;
   font-size: 16px;
-  font-style: normal;
   letter-spacing: 0.02em;
 }
 
