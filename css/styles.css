@@ -40,14 +40,8 @@ ol {
   letter-spacing: 0.02em;
 }
 
-.nav-style:hover {
-  color: #404bbf;
-}
-
-.nav-style:active {
-  color: #404bbf;
-}
-
+.nav-style:hover,
+.nav-style:active,
 .nav-style:focus {
   color: #404bbf;
 }
