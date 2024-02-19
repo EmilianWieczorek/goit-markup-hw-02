@@ -100,7 +100,7 @@ ol {
   letter-spacing: 0.02em;
 }
 
-ul > li > p {
+.heading-paragraph {
   color: #434455;
   font-weight: 400;
   font-size: 16px;
@@ -112,7 +112,7 @@ ul > li > p {
   background-color: #f4f4fd;
 }
 
-.our-team-section-style h2 {
+.our-team-main-header-section-style {
   color: #2e2f42;
   background-color: #ffffff;
   font-family: "Roboto", sans-serifv;
@@ -124,14 +124,14 @@ ul > li > p {
   text-transform: capitalize;
 }
 
-.our-team-section-style h3 {
+.our-team-third-header-section-style {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   text-align: center;
 }
 
-.our-team-section-style p {
+.our-team-paragraph-section-style {
   color: #434455;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -139,7 +139,7 @@ ul > li > p {
   text-align: center;
 }
 
-.our-portfolio-section-style h2 {
+.our-portfolio-main-header-section-style {
   color: #2e2f42;
   font-family: "Roboto", sans-serif;
   font-weight: 700;
@@ -150,14 +150,14 @@ ul > li > p {
   text-transform: capitalize;
 }
 
-.our-portfolio-section-style h3 {
+.our-portfolio-third-header-section-style {
   font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
   text-align: center;
 }
 
-.our-portfolio-section-style p {
+.our-portfolio-paragraph-section-style {
   color: #434455;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
@@ -169,7 +169,7 @@ footer {
   background-color: #2e2f42;
 }
 
-footer p {
+.footer-paragraph {
   color: #f4f4fd;
   font-family: "Roboto", sans-serif;
   font-weight: 400;
