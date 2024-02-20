@@ -40,10 +40,8 @@ ol {
   letter-spacing: 0.02em;
 }
 
-.nav-style:hover,
-.nav-style:visited,
-.nav-style:active,
-.nav-style:focus {
+.nav-styles-link:hover,
+.nav-styles-link:focus {
   color: #404bbf;
 }
 address {
@@ -57,10 +55,8 @@ address {
   letter-spacing: 0.02em;
 }
 
-.address-styles:hover,
-.address-styles:active,
-.address-styles:visited,
-.address-styles:focus {
+.address-styles-link:hover,
+.address-styles-link:focus {
   color: #404bbf;
 }
 
@@ -137,11 +133,11 @@ address {
 }
 
 .our-team-third-header-section-style {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
+  color: #2e2f42;
 }
 
 .our-team-paragraph-section-style {
@@ -165,11 +161,11 @@ address {
 }
 
 .our-portfolio-third-header-section-style {
-  font-family: "Roboto", sans-serif;
   font-weight: 500;
   font-size: 20px;
+  line-height: 1.2;
   letter-spacing: 0.02em;
-  text-align: center;
+  color: #2e2f42;
 }
 
 .our-portfolio-paragraph-section-style {
