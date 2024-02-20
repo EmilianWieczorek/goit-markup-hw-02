@@ -45,19 +45,19 @@ ol {
   color: #404bbf;
 }
 
-address {
+.address-styles {
   font-style: normal;
 }
 
-.address-styles-link {
+.address-styles {
   color: #434455;
   font-weight: 400;
   font-size: 16px;
   letter-spacing: 0.02em;
 }
 
-.address-styles-link:hover,
-.address-styles-link:focus {
+.address-styles:hover,
+.address-styles:focus {
   color: #404bbf;
 }
 
