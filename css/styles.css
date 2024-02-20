@@ -33,7 +33,7 @@ ol {
   list-style-type: none;
 }
 
-.nav-styles-link {
+.nav-style {
   color: #2e2f42;
   font-weight: 500;
   font-size: 16px;
@@ -48,7 +48,7 @@ address {
   font-style: normal;
 }
 
-.address-styles {
+.address-styles-link {
   color: #434455;
   font-weight: 400;
   font-size: 16px;
@@ -57,11 +57,6 @@ address {
 
 .address-styles-link:hover,
 .address-styles-link:focus {
-  color: #404bbf;
-}
-
-.contacts-style:hover,
-.contacts-style:active {
   color: #404bbf;
 }
 
@@ -90,7 +85,7 @@ address {
 }
 
 .button-style:hover,
-.button-style:focus {
+.button-style {
   background-color: #404bbf;
 }
 
