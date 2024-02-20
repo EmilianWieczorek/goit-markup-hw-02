@@ -84,8 +84,7 @@ address {
   cursor: pointer;
 }
 
-.button-style:hover,
-.button-style {
+.button-style:hover {
   background-color: #404bbf;
 }
 
